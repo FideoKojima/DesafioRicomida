@@ -1,0 +1,147 @@
+body {
+    font-family: 'Cabin', sans-serif;    
+}
+.hr {
+    color: #000000;
+    opacity: inherit;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.navbar {
+    background-color: #373A3C;
+    padding: 0;
+}
+.navbar-brand {
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+}
+.nav-link {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+}
+.row {
+    padding-top: 10px;
+}
+.row img {
+    width: 100%;
+}
+.row h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #373A3C;
+}
+.row hr {
+    color: #000000;
+    opacity: inherit;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.row h2 {
+    font-weight: 700;
+    font-size: 20px;
+    color: #373A3C;
+}
+.btn-outline-light {
+    color: #373A3C;
+    border-color: #dddddd;
+    font-size: 16px;
+    font-weight: 400;
+}
+.carousel-indicators {
+    top: 108% !important;
+}  
+.carousel-indicators button {
+    width: 13px !important;
+    height: 13px !important;
+    border-radius: 50%;
+    background-color: #373A3C !important;
+}
+hr {
+    color: #000000;
+    opacity: inherit;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.titulo {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.ingredientes {
+    font-size: 15px;
+    font-weight: 400;
+}
+.ingredientes h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+ul li {
+    list-style-type: none;
+}
+.preparacion {
+    font-size: 15px;
+    font-weight: 400;
+}
+.preparacion h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.preparacion ol li {
+    padding: 10px;
+}
+.image-top {
+    height: 180px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.card-title {
+    font-size: 23px;
+    font-weight: 700;
+}
+.card-text {
+    font-size: 16px;
+    font-weight: 400;
+}
+.section-final {
+    background-color: #DC3545;
+    color: #ffffff;
+    padding-bottom: 70px;
+    text-align: center;
+    margin-top: 50px;
+}
+.final-titulo {
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 70px;
+}
+.rico {
+    font-size: 20px;
+    font-weight: 400;
+}
+.mida {
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+.footer {
+    background-color: #373A3C;
+    padding: 20px;
+    color: #ffffff;
+    font-family: 'Lobster', cursive;
+    font-size: 37px;
+    text-align: center;
+}
+section .btn {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    width: 220px;
+    margin: 0px;
+}
+.boton {
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
